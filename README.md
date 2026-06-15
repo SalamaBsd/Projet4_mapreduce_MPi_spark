@@ -16,7 +16,7 @@ Implémenter un moteur MapReduce parallèle avec MPI et comparer ses performance
 
 
 ##  Structure du projet
-
+```
 
 P4_mapreduce_project/
 ├── data/
@@ -35,7 +35,7 @@ P4_mapreduce_project/
 ├── mapreduce_project.ipynb    ← Notebook principal
 └── TP_guide_installation.md   ← Guide d'installation complet
 
-
+```
 
 
 ##  Installation
