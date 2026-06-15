@@ -47,7 +47,7 @@ sudo apt install openmpi-bin libopenmpi-dev -y
 
 ---
 
-## ÉTAPE 5 — Installer Java (requis pour Spark)
+## ÉTAPE 5 — Installer Java (requis pour Spark) 
 
 ```bash
 sudo apt install default-jdk -y
@@ -60,11 +60,13 @@ java -version
 
 ---
 
-## ÉTAPE 6 — Aller dans le dossier du projet
 
-Remplace `TonNom` par ton nom d'utilisateur Windows :
+
+## ÉTAPE 6 —  Cloner le projet depuis GitHub et Aller dans le dossier du projet
+
 ```bash
-cd "/mnt/c/Users/TonNom/Desktop/P4_mapreduce_project"
+git clone https://github.com/SalamaBsd/Projet4_mapreduce_MPi_spark.git
+cd Projet4_mapreduce_MPi_spark
 ```
 
 ---
