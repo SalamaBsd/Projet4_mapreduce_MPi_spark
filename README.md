@@ -5,7 +5,7 @@ Copie-colle exactement ce texte dans GitHub :
 
 Implementation of a mini MapReduce engine from scratch using Python and MPI (mpi4py), covering the three core phases: **Map**, **Shuffle**, and **Reduce**. Compared to Apache Spark (PySpark) on a WordCount benchmark.
 
-> M2 — Parallel Programming & Distributed Systems
+> M1 — Parallel Programming & Distributed Systems
 
 
 
