@@ -1,23 +1,23 @@
 Copie-colle exactement ce texte dans GitHub :
 
-```
+
 #  Mini Moteur MapReduce — MPI vs Apache Spark
 
 Implementation of a mini MapReduce engine from scratch using Python and MPI (mpi4py), covering the three core phases: **Map**, **Shuffle**, and **Reduce**. Compared to Apache Spark (PySpark) on a WordCount benchmark.
 
 > M2 — Parallel Programming & Distributed Systems
 
----
+
 
 ##  Objectif
 
 Implémenter un moteur MapReduce parallèle avec MPI et comparer ses performances avec Apache Spark sur le problème WordCount.
 
----
+
 
 ##  Structure du projet
 
-```
+
 P4_mapreduce_project/
 ├── data/
 │   ├── input.txt              ← Données de test (petit)
@@ -34,9 +34,9 @@ P4_mapreduce_project/
 │   └── comparison.png         ← Graphique de comparaison
 ├── mapreduce_project.ipynb    ← Notebook principal
 └── TP_guide_installation.md   ← Guide d'installation complet
-```
 
----
+
+
 
 ##  Installation
 
