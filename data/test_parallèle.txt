@@ -1,0 +1,8 @@
+chat chat chat
+chien chien
+souris
+oiseau oiseau oiseau oiseau
+poisson
+chat chien souris
+MPI MPI parallel
+spark hadoop

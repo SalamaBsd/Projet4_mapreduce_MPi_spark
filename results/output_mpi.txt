@@ -1,0 +1,16 @@
+le: 300
+mpi: 200
+avec: 200
+spark: 100
+parallel: 100
+computing: 100
+mpi4py: 100
+pyspark: 100
+et: 100
+test: 100
+chien: 100
+wordcount: 100
+chat: 100
+souris: 100
+bonjour: 100
+monde: 100
